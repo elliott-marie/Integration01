@@ -1,0 +1,21 @@
+.divone h1 {
+  margin-top: 100px;
+}
+.divone h5 {
+  margin-top: 5px;
+}
+.divone .btn {
+  margin-top: 20px;
+}
+.divone .img-responsive {
+  margin-top: 50px;
+}
+
+.divtwo h3 {
+  margin-top: 60px;
+}
+.divtwo hr {
+  height: 3px;
+  background-color: darkgreen;
+  margin-top: auto;
+}
